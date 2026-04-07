@@ -1,0 +1,5 @@
+#!/bin/sh
+# start is an all purpose command for opening files and folders from the shell
+# xdg-mime query filetype ~/video.mp4
+# xdg-mime default vlc.desktop video/mp4
+xdg-open "$@" >/dev/null 2>&1 &

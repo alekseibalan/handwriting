@@ -9,4 +9,8 @@ python -m venv venv
 source venv/bin/activate
 # when python complains that 200G is not enough for temp, this helps export TMPDIR=$HOME/tmp
 pip install -U torch --index-url https://download.pytorch.org/whl/cu130
+pip install ipykernel
+python -m ipykernel install --user --name=kernelname
+jupyter kernelspec list
+jupyter notebook
 ```

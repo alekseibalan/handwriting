@@ -14,3 +14,11 @@ python -m ipykernel install --user --name=kernelname
 jupyter kernelspec list
 jupyter notebook
 ```
+
+clear_cache.sh
+```bash
+echo -n "deleting python caches [enter] "
+read -r -s
+echo
+find . -type d -name __pycache__ -prune -exec rm -r {} \;
+```

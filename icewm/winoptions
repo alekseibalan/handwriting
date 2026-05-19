@@ -5,7 +5,6 @@ xterm.mc.icon: mc
 speedcrunch.SpeedCrunch.icon: accessories-calculator
 leafpad.Leafpad.icon: wordpad
 science.icon: science
-joplin.icon: joplin
 seq24.Seq24.icon: seq24
 pcmanfm-qt.pcmanfm-qt.icon: folder-yellow
 sun-awt-X11-XFramePeer.jetbrains-idea-ce.dTitleBar: 0
@@ -13,8 +12,8 @@ jetbrains-pycharm-ce.jetbrains-pycharm-ce.dTitleBar: 0
 Navigator.firefox.dTitleBar: 0
 Navigator.icecat-default.dTitleBar: 0
 google-drive.icon: google-drive
-proton-drive.icon: protonmail-bridge
 tray.startMinimized: 1
 tray.tray: Minimized
 tray.ignoreQuickSwitch: 1
 XpdfReader.startMaximized: 1
+icloud.icon: icloud

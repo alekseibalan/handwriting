@@ -10,7 +10,6 @@ prog "Vivaldi" vivaldi /usr/bin/vivaldi-stable
 prog "Wordpad" wordpad leafpad
 prog "research" science leafpad --class science research.txt
 prog "zotero" zotero zotero
-prog "Joplin" joplin xterm -class joplin -name tray -e "joplin sync;joplin edit default;joplin sync"
 
 #prog "Web browser" internet-web-browser xdg-open about:blank
 prog "Web browser" applications-webapps xdg-open about:blank

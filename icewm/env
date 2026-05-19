@@ -3,3 +3,5 @@ SHELL=/usr/bin/zsh
 #JDK_HOME=
 TZ=America/New_York
 PATH=$HOME/bin:$PATH
+# neofetch fix
+GTK2_RC_FILES=~/.config/gtk-2.0/gtkrc

@@ -1,6 +1,7 @@
 WorkspaceNames="workspace"
 DesktopBackgroundColor="#4c4a48" # Storm
 ConfirmLogout=0
+LockCommand="xset s activate"
 
 ShowTaskBar=1
 TaskBarShowWindowListMenu=1

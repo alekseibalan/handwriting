@@ -6,7 +6,7 @@ prog "Dosbox" dosbox dosbox
 prog "MAME Arcade Emulator" mame mame
 
 prog "seq24" seq24 seq24
-prog "mount drive" icloud xterm -class icloud -name tray -T "drive mounted ^C" -e "rclone mount drive: ~/drive/"
+prog "mount drive" cloud xterm -class cloud -name tray -T "drive mounted ^C" -e "rclone mount drive: ~/drive/"
 prog "mount google drive" google-drive xterm -class google-drive -name tray -T "google drive mounted ^C" -e "rclone mount google: ~/drive/"
 
 prog "Firefox Web Browser" firefox /usr/lib/firefox/firefox

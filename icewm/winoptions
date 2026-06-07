@@ -2,8 +2,6 @@ xterm.UXTerm.icon: utilities-terminal
 xterm.XTerm.icon: utilities-x-terminal
 xterm.Nord.icon: terminus
 xterm.mc.icon: mc
-speedcrunch.SpeedCrunch.icon: accessories-calculator
-leafpad.Leafpad.icon: wordpad
 science.icon: science
 seq24.Seq24.icon: seq24
 pcmanfm-qt.pcmanfm-qt.icon: folder-yellow
@@ -16,4 +14,6 @@ tray.startMinimized: 1
 tray.tray: Minimized
 tray.ignoreQuickSwitch: 1
 XpdfReader.startMaximized: 1
-icloud.icon: icloud
+cloud.icon: cloud
+notepad.icon: notepad
+calculator.icon: calculator

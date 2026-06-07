@@ -2,12 +2,12 @@
 
 prog "UXTerm" utilities-terminal uxterm
 prog "Midnight Commander" mc xterm -class mc -e mc
-prog "Calculator" accessories-calculator speedcrunch
+prog "Calculator" calculator calculator
 prog "Nord" terminus xterm -class Nord
 prog "XTerm" utilities-x-terminal xterm
 prog "Explorer" folder-yellow pcmanfm-qt
 prog "Vivaldi" vivaldi /usr/bin/vivaldi-stable
-prog "Wordpad" wordpad leafpad
+prog "Notepad" notepad notepad
 prog "research" science leafpad --class science research.txt
 prog "zotero" zotero zotero
 

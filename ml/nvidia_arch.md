@@ -15,7 +15,7 @@ jupyter kernelspec list
 jupyter notebook
 ```
 
-clear_cache.sh
+pycache_clear.sh
 ```bash
 echo -n "deleting python caches [enter] "
 read -r -s

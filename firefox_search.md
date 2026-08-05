@@ -13,6 +13,17 @@ https://www.mojeek.com/search?q=%s
 ```
 
 ```
+Ecosia
+https://www.ecosia.org/search?q=%s
+```
+
+```
+Kagi
+https://kagi.com/search?q=%s
+@kagi
+```
+
+```
 Startpage
 https://www.startpage.com/sp/search?query=%s
 ```
@@ -21,6 +32,11 @@ https://www.startpage.com/sp/search?query=%s
 DuckDuckGo
 https://duckduckgo.com/?q=%s
 @ddg
+```
+
+```
+Qwant
+https://www.qwant.com/?q=%s
 ```
 
 ```

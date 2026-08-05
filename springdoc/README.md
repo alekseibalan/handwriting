@@ -1,3 +1,0 @@
-OpenAPI
-
-https://www.baeldung.com/spring-rest-openapi-documentation

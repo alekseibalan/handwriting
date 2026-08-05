@@ -20,3 +20,9 @@ File - Other Settings - Settings for New Projects - Version Control - Confirmati
 ### Hex values in debugger
 
 Settings - Build, Execution, Deployment - Debugger - Data Views - Java - Show hex value for primitives
+
+### Alignment not following indentation
+
+Settings - Editor - Code Style - Java - Wrapping and Braces - Method declaration parameters - Align when multiline
+
+Settings - Editor - Code Style - Java - Wrapping and Braces - try-with-resources - Align when multiline
